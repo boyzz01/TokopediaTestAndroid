@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps">Maps</string>
+    <string name="apiKey" translatable="false">7d60ce1a41msh35708c6f58ad8d1p14e1d8jsna6d5fa321e47</string>
+    <string name="apiHost" translatable="false">restcountries-v1.p.rapidapi.com</string>
+    <string name="google_maps_key" translatable="false">AIzaSyA22beeubXzlCCRnAC3KJGckv2oNscuMJE</string>
+</resources>

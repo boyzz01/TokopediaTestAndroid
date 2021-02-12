@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="chipBackgroundColor">#FFFFFF</color>
+    <color name="chipBackgroundColorActive">#2342BD41</color>
+    <color name="chipTextColor">#494848</color>
+    <color name="chipTextColorActive">#42BD41</color>
+    <color name="chipBorder">#CACACA</color>
+    <color name="chipBorderActive">#42BD41</color>
+
+
+</resources>

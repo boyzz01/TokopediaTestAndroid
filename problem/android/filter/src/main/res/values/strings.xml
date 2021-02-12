@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter">Filter</string>
+    <string name="no_image">No Image</string>
+    <string name="lokasi">Lokasi</string>
+</resources>
